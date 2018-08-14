@@ -1,0 +1,2 @@
+k60_startup.c:57:6:Default_Handler	4	static
+k60_startup.c:68:29:Reset_Handler	0	static
